@@ -1,0 +1,8 @@
+DEBUG pool-1-thread-1 org.eclipse.jgit.util.FS - readpipe [git, --version],/usr/bin
+DEBUG pool-1-thread-1 org.eclipse.jgit.util.FS - readpipe may return 'git version 2.17.2 (Apple Git-113)'
+DEBUG pool-1-thread-1 org.eclipse.jgit.util.FS - remaining output:
+
+DEBUG pool-1-thread-1 org.eclipse.jgit.util.FS - readpipe [git, config, --system, --edit],/usr/bin
+DEBUG pool-1-thread-1 org.eclipse.jgit.util.FS - readpipe may return '/private/etc/gitconfig'
+DEBUG pool-1-thread-1 org.eclipse.jgit.util.FS - remaining output:
+
